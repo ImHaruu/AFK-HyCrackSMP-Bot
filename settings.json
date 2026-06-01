@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "144.31.46.17",
-    "port": 12935,
+    "ip": "channel-scripting.gl.joinmc.link",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
