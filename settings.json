@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "HyCrackBot",
+    "username": "KryptonLobby",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "focus-providing.gl.joinmc.link",
-    "port": 25565,
+    "ip": "acorezero.qzz.io",
+    "port": 20023,
     "version": "",
     "try-creative": false
   },
@@ -79,6 +79,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
