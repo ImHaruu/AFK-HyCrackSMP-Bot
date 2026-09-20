@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 120,
+      "repeat-delay": 1,
       "messages": [
         "/server survival"
       ]
